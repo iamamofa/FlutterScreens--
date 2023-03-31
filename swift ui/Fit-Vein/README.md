@@ -40,21 +40,3 @@ Apple iPhone with iOS 15+ installed
 * Full onboarding, executing at first app's launch, taking the user on a tour across all of the app's most vital functionalities.
 
 
-## Screenshots
-
-![alt text](https://github.com/Vader20FF/Fit-Vein/blob/main/Fit%20Vein/Images/FitVeinIconDark.png?raw=true)
-
-![alt text](https://github.com/Vader20FF/Fit-Vein/blob/main/Fit%20Vein/Onboarding%20Photos/HomeTabView.png?raw=true)
-![alt text](https://github.com/Vader20FF/Fit-Vein/blob/main/Fit%20Vein/Onboarding%20Photos/PostCommentsView.png?raw=true)
-![alt text](https://github.com/Vader20FF/Fit-Vein/blob/main/Fit%20Vein/Onboarding%20Photos/SearchFriendsView.png?raw=true)
-![alt text](https://github.com/Vader20FF/Fit-Vein/blob/main/Fit%20Vein/Onboarding%20Photos/WorkoutsView.png?raw=true)
-![alt text](https://github.com/Vader20FF/Fit-Vein/blob/main/Fit%20Vein/Onboarding%20Photos/WorkoutTimerView.png?raw=true)
-![alt text](https://github.com/Vader20FF/Fit-Vein/blob/main/Fit%20Vein/Onboarding%20Photos/FinishedWorkoutView.png?raw=true)
-![alt text](https://github.com/Vader20FF/Fit-Vein/blob/main/Fit%20Vein/Onboarding%20Photos/ProfileView.png?raw=true)
-![alt text](https://github.com/Vader20FF/Fit-Vein/blob/main/Fit%20Vein/Onboarding%20Photos/HealthTabView.png?raw=true)
-![alt text](https://github.com/Vader20FF/Fit-Vein/blob/main/Fit%20Vein/Onboarding%20Photos/WorkoutsTabView.png?raw=true)
-
-
-## Preview Video 
-### Polish UI Localization
-https://user-images.githubusercontent.com/78795431/173231961-d1ca756b-2498-467a-8709-29c1f9e4cfd6.mov
