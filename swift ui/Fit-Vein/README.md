@@ -21,11 +21,6 @@ Firebase, Firebase Firestore, Firebase Storage
 HealthKit   
 Lottie Library       
 
-
-## Status
-Finished
-
-
 ## Requirements
 Apple iPhone with iOS 15+ installed
 
