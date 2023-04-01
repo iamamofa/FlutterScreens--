@@ -249,3 +249,10 @@ class ProfileViewModel: ObservableObject {
         }
     }
 }
+
+@MainActor
+class ProfileViewModel {
+    
+
+    
+}
